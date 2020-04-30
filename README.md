@@ -4,10 +4,11 @@
 Controller for Zoom video conference,
 by M5Stack with Bluetooth connection.
 
+
 Send shortcut key
-A: ALT + a MIC SEND/MUTE
-B: ALT + v CAMERA ON/OFF
-C: ALT + s SHARE SCREEN
+- A: ALT + a MIC SEND/MUTE
+- B: ALT + v CAMERA ON/OFF
+- C: ALT + s SHARE SCREEN
 
 
 
