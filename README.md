@@ -14,9 +14,9 @@ Send shortcut key
 
 ## Requirement
 
-- install ESP32 BLE Mouse library v0.2.1
+- install ESP32 BLE Mouse library
 
-https://github.com/T-vK/ESP32-BLE-Keyboard/releases/download/0.2.1/ESP32-BLE-Keyboard.zip
+https://github.com/T-vK/ESP32-BLE-Keyboard/
 
 - M5Stack
 
